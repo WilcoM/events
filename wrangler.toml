@@ -1,0 +1,6 @@
+name = "events"
+main = "index.js"
+compatibility_date = "2023-09-21"
+platform = "node"
+compatibility_flags = [ "nodejs_compat" ]
+
